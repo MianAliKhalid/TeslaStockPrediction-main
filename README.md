@@ -5,7 +5,7 @@ Requirements
 
 Clone the repository:
 ```bash
-    https://github.com/Xer0bit/TeslaStockPrediction
+    https://github.com/MianAliKhalid/TeslaStockPrediction-main
 ```
 
 To run the code, make sure you have the necessary dependencies installed. You can install them by running:
@@ -27,7 +27,7 @@ This will run the prediction model and provide the predicted Tesla stock prices 
 ## Model Details
 
 ### Tesla's next 5 years stock prediction
-![5 years of prediction](https://raw.githubusercontent.com/Xer0bit/TeslaStockPrediction/main/5%20years.png)
+![5 years of prediction]https://github.com/MianAliKhalid/TeslaStockPrediction-main/blob/main/5%20years.png
 
 The model utilizes machine learning techniques to forecast Tesla stock prices based on historical data. It employs algorithms such as regression, time series analysis, or deep learning, depending on the implementation.
 
