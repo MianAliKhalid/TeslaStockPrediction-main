@@ -30,9 +30,4 @@ This will run the prediction model and provide the predicted Tesla stock prices 
 ![5 years of prediction](https://raw.githubusercontent.com/Xer0bit/TeslaStockPrediction/main/5%20years.png)
 
 The model utilizes machine learning techniques to forecast Tesla stock prices based on historical data. It employs algorithms such as regression, time series analysis, or deep learning, depending on the implementation.
-Contributing
 
-Contributions are welcome! If you want to contribute to this project, feel free to open an issue or submit a pull request.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
